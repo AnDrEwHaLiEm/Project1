@@ -1,0 +1,10 @@
+D:\Picture view\Picture view\obj\Debug\Picture_view.Properties.Resources.resources
+D:\Picture view\Picture view\obj\Debug\Picture view.csproj.GenerateResource.cache
+D:\Picture view\Picture view\obj\Debug\Picture view.csproj.CoreCompileInputs.cache
+D:\Picture view\Picture view\bin\Debug\Picture view.exe.config
+D:\Picture view\Picture view\bin\Debug\Picture view.exe
+D:\Picture view\Picture view\bin\Debug\Picture view.pdb
+D:\Picture view\Picture view\obj\Debug\Picture view.exe
+D:\Picture view\Picture view\obj\Debug\Picture view.pdb
+D:\Picture view\Picture view\obj\Debug\Picture_view.Form1.resources
+D:\Picture view\Picture view\obj\Debug\Picture view.csprojAssemblyReference.cache
